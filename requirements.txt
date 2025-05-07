@@ -1,0 +1,6 @@
+# 此文件用于安装项目所需的依赖包。
+# 您可以通過執行以下命令使用 pip 安裝這些依赖包：
+# pip install -r requirements.txt
+# 项目所需的依赖包
+markdown
+weasyprint
